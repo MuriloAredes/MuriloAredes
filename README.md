@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 -🌱   Apaixonado em tecnologia como um todo.
 -✍️   Estudando e se mantendo atualizado sempre.
 -☕   Uma xícara de café pode ser a solução de todo estresse
+</br>
