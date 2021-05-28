@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-      <h3> Sobre Mim
+      <h3> Sobre Mim </h3>
 <li> 🎓   Cursando Analise e Desenvolvimento de Sistemas.
 <li>💼   Back-end developer.
 <li>🌱   Apaixonado em tecnologia como um todo.
