@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-<br> 
+
 -👨🏻‍💻 Sobre Mim
--🎓   Cursando Analise e Desenvolvimento de Sistemas.
+-🎓   Cursando Analise e Desenvolvimento de Sistemas.</br>
 -💼   Back-end developer.
 -🌱   Apaixonado em tecnologia como um todo.
 -✍️   Estudando e se mantendo atualizado sempre.
 -☕   Uma xícara de café pode ser a solução de todo estresse
-</br>
+
