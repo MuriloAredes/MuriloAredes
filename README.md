@@ -7,12 +7,8 @@ Here are some ideas to get you started:
 -->
 
 -👨🏻‍💻 Sobre Mim</br>
--🎓   Cursando Analise e Desenvolvimento de Sistemas.</br>
--💼   Back-end developer.</br>
--🌱   Apaixonado em tecnologia como um todo.</br>
--✍️   Estudando e se mantendo atualizado sempre.</br>
--☕   Uma xícara de café pode ser a solução de todo estresse</br>
-
-Modificado (modified);
-
-git status
+● 🎓   Cursando Analise e Desenvolvimento de Sistemas.</br>
+● 💼   Back-end developer.</br>
+● 🌱   Apaixonado em tecnologia como um todo.</br>
+● ✍️   Estudando e se mantendo atualizado sempre.</br>
+● ☕   Uma xícara de café pode ser a solução de todo estresse</br>
