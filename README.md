@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 <li>✍️   Estudando e se mantendo atualizado sempre.
 <li> ☕   Uma xícara de café pode ser a solução de todo estresse
 
-       
-       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloAredes)](https://github.com/anuraghazra/github-readme-stats)
+       [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
