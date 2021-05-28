@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-🏻‍💻 Sobre Mim</br>
+       Sobre Mim</br>
 <li> 🎓   Cursando Analise e Desenvolvimento de Sistemas.
 <li>💼   Back-end developer.
 <li>🌱   Apaixonado em tecnologia como um todo.
