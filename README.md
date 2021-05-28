@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola! Eu sou Murilo Aredes 👋
 
 <!--
 **MuriloAredes/MuriloAredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
